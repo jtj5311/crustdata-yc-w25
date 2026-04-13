@@ -9,7 +9,7 @@ Built as a quickstart against the [Crustdata Company Search endpoint](https://do
 Requires [uv](https://docs.astral.sh/uv/).
 
 ```bash
-git clone <this repo>
+git clone https://github.com/jtj5311/crustdata-yc-w25
 cd crustdata-search
 cp .env.example .env
 # paste your Crustdata API key after CRUSTDATA_API_KEY=
